@@ -36,10 +36,3 @@ jupyter notebook
 3. For `DSDR_round_3.ipynb`, run the cells in order to compute sentiment scores (VADER will be downloaded if necessary) and produce the scatter plot and inconsistency analysis.
 4. For `DSDR_R2_JASON_CHOONG_JIN_SHEN.ipynb`, run the preprocessing and model-training cells. Ensure `Bank Customer Churn Prediction.csv` is available in the working directory.
 
-**Next steps / Suggestions**
-- Add a `requirements.txt` capturing exact package versions used.
-- Consider adding a short `data/` folder and README entries describing dataset provenance and licensing.
-- Add a notebook cell that saves model results or evaluation tables to CSV for reproducibility.
-
-**Contact / Notes**
-- If you want, I can create `requirements.txt`, add a brief `data/README.md`, or expand the README with figures and example outputs.
